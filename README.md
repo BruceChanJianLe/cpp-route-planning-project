@@ -2,6 +2,8 @@
 
 This is a project from udacity C++ nanodegree program. This project uses the open-source map as a library with some modification, I am able to perform an A* search to look for a path from one point to the other.
 
+![image](my-cpp-route-planning-project.png)
+
 ## Installing the dependencies
 
 To build this project locally, you will need to install the io2d library package from `https://github.com/cpp-io2d/P0267_RefImpl`.
