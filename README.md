@@ -24,7 +24,7 @@ make
 sudo make install
 ```
 
-Note that you will not be able to compile and install the above packages smoothly if you are using Ubuntu 16.04. As you will need g++-7 to successfully compile the libray. Follow the instructions below to install g++-7 in your computer.
+Note that you will not be able to compile and install the above packages smoothly if you are using Ubuntu 16.04. As you will need g++-7 to successfully compile the libray. Follow the instructions below to install g++-7 on your computer.
 
 g++-7 - For c++ programs (use this)
 gcc-7 - For c programs (install for your own use)
