@@ -33,7 +33,7 @@ gcc-7 - For c programs (install for your own use)
 sudo apt-get install -y software-properties-common
 # Install tool chain to find g++-7 and gcc-7 in apt
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
-sudo apt-get udpate
+sudo apt-get update
 sudo apt-get install g++-7 gcc-7 -y
 
 # Remove g++ or gcc if you have them
